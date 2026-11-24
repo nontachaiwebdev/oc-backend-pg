@@ -1,0 +1,11 @@
+.git
+.env
+.env.*
+.seed
+*.dump
+node_modules
+dist
+docs
+tests
+README.md
+docker-compose.yml

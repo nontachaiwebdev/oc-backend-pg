@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Real data copied from Supabase for local seeding. Never commit.
+.seed/
+*.dump
